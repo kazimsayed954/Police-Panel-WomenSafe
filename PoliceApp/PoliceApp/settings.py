@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'police',# application created
     'crispy_forms',# crispy form
+    'rest_framework',# rest framework library
 ]
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'

@@ -117,3 +117,4 @@ def analysisHome(request):
                 'map_obj':empty_map()
             } 
         return render(request,"analysis.html",context)
+        
