@@ -1,4 +1,4 @@
-# Police-Panel-WomenSafe
+# Police Panel WomenSafe
 
 Following steps to followed to run application:
 
