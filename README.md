@@ -30,3 +30,7 @@ For installing anaconda, goto their offcial website and download it and use comm
 Username: admin
 Password: admin
 ```
+
+### Screenshot
+
+
