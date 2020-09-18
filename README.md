@@ -31,7 +31,7 @@ Username: admin
 Password: admin
 ```
 
-### Android App Code[c](https://github.com/kazimsayed954/WomenSafe-App)
+#### [Android App Code](https://github.com/kazimsayed954/WomenSafe-App)
 
 ### Screenshot
 ![c](https://github.com/kazimsayed954/Police-Panel-WomenSafe/blob/master/ScreenShot/Home.PNG)
